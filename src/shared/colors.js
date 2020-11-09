@@ -1,0 +1,9 @@
+export const  COLORS={
+   STATUS_BAR_COLOR:'#480909',
+   PRIMARY_COLOR:'#851616',
+   DARK_PRIMARY_COLOR:'#3E2723',
+   LIGHTER_COLOR:'#f4f4f4',
+   DARK_COLOR:'#000',
+   TEXT_COLOR:'#4fc143',
+   GRADIENT_COLOR:['rgba(9, 62, 17, 0.48)', 'rgba(78, 193, 67, 0.4)']
+}
